@@ -6,4 +6,4 @@ Declare the target that you want to elininate the click delay as:
 
 $(".target").noClickDelay( );
 
-The '.target' could be the container or wrapper of mutiple click targets or it can be an individual click target(button/link...).
+The '.target' could be the container or wrapper of mutiple click targets or it can be an individual click target such as a button, a link or other divs .
